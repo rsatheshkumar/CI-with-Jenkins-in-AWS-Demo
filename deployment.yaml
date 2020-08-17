@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mytomcatpod
-        image: satheshkumar/test5:tagversion 
+        image: satheshkumar/img1:tagversion 
         ports:
         - containerPort: 8080
 ---
