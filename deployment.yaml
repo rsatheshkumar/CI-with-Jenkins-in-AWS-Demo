@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mytomcatpod
-        image: loveythakral/sprint6dockerjenkins:tagversion 
+        image: satheshkumar/test:tagversion 
         ports:
         - containerPort: 8080
 ---
