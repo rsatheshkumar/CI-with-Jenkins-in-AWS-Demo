@@ -1,7 +1,7 @@
 pipeline {
         agent any
         environment {
-            registry = "satheshkumar/test4"
+            registry = "satheshkumar/test5"
             registryCredential = 'dockerhub1'
             dockerImage = ''
 		PROJECT_ID = 'sonic-mile-279004'
